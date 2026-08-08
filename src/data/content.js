@@ -87,43 +87,43 @@ export const ABOUT = {
 export const HOME_CONTENT = {
 
   hero: {
-  eyebrow: "Fresh • Fast • Delicious",
+  eyebrow: "Ahmedabad’s Favourite Cafe",
 
   title: [
-     "Great food,",
-     "great moments,",
-     "every day."
+       "Good food,",
+      "great vibes,",
+      "every day."
      ],
 
   subtitle:
-     "Serving delicious food made with quality ingredients, bold flavours, and care. Perfect for dine-in, takeaway, or delivery.",
+     "Enjoy delicious food, refreshing flavours, and a welcoming cafe experience at Hob’s Eats in Juhapura, Ahmedabad.",
   primaryButton: "Call to Order",
 
   secondaryButton: "View Menu",
 
   image:
-    "https://images.pexels.com/photos/6210747/pexels-photo-6210747.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=1400&w=1200",
+    "/hero.jpg",
 
   imageAlt:
-    "Signature food item",
+    "Hob’s Eats Cafe",
 
-  signatureTitle:  "Featured Item",
+  signatureTitle:  "Hob’s Favourite",
 
-  signatureDish: "Chef's Special",
+  signatureDish: "Customer Favourite",
  },
 
   trust: {
-  rating: "4.8 ★",
-  reviews: "500+ Happy Customers",
+  rating: "4.7 ★",
+  reviews: "120+ Google Reviews",
 
   service:  "Dine-in · Takeaway",
-  serviceInfo: "Fast Delivery Available",
+  serviceInfo: "Open Until 5:00 AM",
 
   timing:  "Open Daily",
-  timingInfo: "See business hours",
+  timingInfo: "2:00 PM – 5:00 AM",
 
-  location:  "Easy to Find",
-  locationInfo: "Convenient Location",
+  location:  "Juhapura, Ahmedabad",
+  locationInfo: "Royal Park",
 },
 
 signatures: {
@@ -137,13 +137,13 @@ gallery: {
   title: "Our Gallery",
   heading:  "Take a look before you visit.",
   button: "Full Gallery",
- imageAlt: "Restaurant Gallery",
+ imageAlt: "Hob’s Eats Restaurant Gallery",
 },
 
 reviews: {
   title: "Google Reviews",
   description:
-    "Trusted by customers for delicious food, quality service, and a great dining experience.",
+    "Loved by customers for delicious food, great flavours, and a memorable cafe experience.",
 },
 };
 

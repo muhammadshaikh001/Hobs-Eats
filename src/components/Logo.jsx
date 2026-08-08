@@ -6,7 +6,7 @@ export default function Logo({ compact = false }) {
       <img
       src={SITE.logo}
       alt={SITE.name}
-      className={compact ? "w-8 h-8 object-contain" : "w-10 h-10 object-contain"}
+      className={compact ? "w-12 h-12 object-contain" : "w-16 h-16 object-contain"}
      />
 
      <div className="leading-[0.95] flex flex-col">

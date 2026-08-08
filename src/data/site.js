@@ -15,34 +15,34 @@
 // Social Links
 
 export const SITE = {
-  name: "Business Name",
-  tagline: "Fresh Food. Great Taste.",
+  name: "Hob's Eats",
+  tagline: "Ahmedabad’s Favourite Cafe.",
   logo: "/logo.png",
   
   description:
-  "Write a short description about your food business here.",
+  "Hob's Eats is a favourite cafe in Ahmedabad, serving delicious food with a great dining experience.",
 
-  footerLocation: "City · State",
+  footerLocation: "Ahmedabad · Gujarat",
 
   address: {
-  line1: "Street Address",
-  locality: "Area",
-  city: "City",
-  state: "State",
-  postal: "000000",
+  line1: "Royal Park, 09, opp. Hariyali Society",
+  locality: "Juhapura",
+  city: "Ahmedabad",
+  state: "Gujarat",
+  postal: "380055",
   country: "India",
   landmark: "Nearby Landmark",
 },
-  phoneDisplay:  "00000 00000",
-  phoneE164: "+910000000000",
-  whatsappE164:  "910000000000",
-  hoursLabel:  "Open Daily · 10:00 AM – 10:00 PM",
-  hoursOpen:  "10:00",
-  hoursClose: "22:00",
-  priceRange: "₹₹",
+  phoneDisplay:  "078744 62587",
+  phoneE164: "+9178744 62587",
+  whatsappE164:  "9178744 62587",
+  hoursLabel:  "Open Daily ·  2:00 PM – 5:00 AM",
+  hoursOpen:  "14:00",
+  hoursClose: "05:00",
+  priceRange: "₹200–₹400",
   rating: {
-            value: 4.5, 
-            count: 100, 
+            value: 4.7, 
+            count: 120, 
           },
   services: [
     "Dine-in", 
@@ -53,14 +53,14 @@ export const SITE = {
   cuisines: [
         "Multi Cuisine",
      ],
-  swiggyUrl: "https://www.swiggy.com/", // client-editable placeholder
-  googleReviewUrl: "#",
+  swiggyUrl: "https://www.swiggy.com/city/ahmedabad/hobs-eats-prahlad-nagar-juhapura-royal-park-rest1059368", // client-editable placeholder
+  googleReviewUrl: "https://maps.app.goo.gl/AZSKRQZvsyDNfNDk8",
   googleMapsEmbed:
-    "",
+    "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3672.9043391822106!2d72.52664947399957!3d22.990544917525153!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x395e8544422d566b%3A0x3958c0a5409015a4!2sHob's%20Eats!5e0!3m2!1sen!2sin!4v1786155466202!5m2!1sen!2sin",
   googleDirectionsUrl:
-    "#",
+    "https://maps.app.goo.gl/9sJViQwNKoXZVgZr7?g_st=ic",
   social: {
-    instagram: "#",
+    instagram: "https://www.instagram.com/hobs.eats/?hl=en",
     facebook: "#",
   },
 };
